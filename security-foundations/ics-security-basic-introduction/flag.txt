@@ -1,0 +1,1 @@
+flag{getting_started}

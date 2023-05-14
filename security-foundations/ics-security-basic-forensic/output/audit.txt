@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Mon May  8 17:00:42 2023
+Invocation: foremost unknown?token=eyJ1c2VyX2lkIjo0NDIsInRlYW1faWQiOjIzMCwiZmlsZV9pZCI6Nn0.ZFjG5g.c5r1Xl2eFQdWpysWBuAHdkKPDTI 
+Output directory: /home/zharsuke/Documents/Cyber_Security/ICSJWGCTF/security-foundations/ics-security-basic-forensic/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: unknown?token=eyJ1c2VyX2lkIjo0NDIsInRlYW1faWQiOjIzMCwiZmlsZV9pZCI6Nn0.ZFjG5g.c5r1Xl2eFQdWpysWBuAHdkKPDTI
+Start: Mon May  8 17:00:42 2023
+Length: 74 KB (75980 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      73 KB 	          0 	 
+1:	00000146.zip 	      742 B 	      75238 	 
+Finish: Mon May  8 17:00:42 2023
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Mon May  8 17:00:42 2023
